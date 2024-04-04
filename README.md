@@ -30,7 +30,8 @@
  
  Auto configuration
  
- Spring boot actuator - > This will help us to monitor the application like how many request are comming , How many are up and running , Gathering HTTP request 
+ Spring boot actuator - > 
+                         This will help us to monitor the application like how many request are comming , How many are up and running , Gathering HTTP request 
  
                           and so on  , matrics gathering 
  
