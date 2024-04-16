@@ -23,5 +23,5 @@ public class Review {
     private double rating;
     @ManyToOne
     @JsonIgnore
-    private List<Company> company;
+    private Company company;
 }
